@@ -1,4 +1,4 @@
-
+Designed for low-latency real-time multiplayer poker systems.
 # Texas Hold'em Poker Multiplayer Server App
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-poker-multiplayer?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-poker-multiplayer)
@@ -26,7 +26,12 @@ It focuses on room-based matches, real-time updates, and a clean code structure 
 - Gameplay screenshots  
 - Server logs preview  
 - Multiplayer session example
-- 
+## 🧠 Technical Highlights
+
+- Low-latency real-time synchronization  
+- Server-authoritative state management  
+- Action validation & consistency  
+- Scalable concurrent session design  
 ## 💰 获取完整源码
 📱 Telegram：@fox_lovemyself
 📧 Email：lihongbo9414@gmail.com
