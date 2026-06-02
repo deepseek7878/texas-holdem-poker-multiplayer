@@ -1,5 +1,5 @@
 Designed for low-latency real-time multiplayer poker systems.
-# Texas Hold'em Poker Multiplayer Server App
+# Texas Hold'em Poker Multiplayer Server App / 德州源码/德州扑克源码/德州二开源码/開源德州撲克多人遊戲 / 开源德州扑克多人游戏,
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-poker-multiplayer?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-poker-multiplayer)
 [![GitHub forks](https://img.shields.io/github/forks/deepseek7878/texas-holdem-poker-multiplayer?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-poker-multiplayer)
@@ -7,7 +7,7 @@ Designed for low-latency real-time multiplayer poker systems.
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/deepseek7878/texas-holdem-poker-multiplayer?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-poker-multiplayer/pulls)
 [![License](https://img.shields.io/github/license/deepseek7878/texas-holdem-poker-multiplayer?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-poker-multiplayer/blob/main/LICENSE)
 
-Open-source Texas Hold'em multiplayer poker game / 德州源码/德州扑克源码/德州二开源码/開源德州撲克多人遊戲 / 开源德州扑克多人游戏, built for real-time rooms, game state synchronization, and easy local deployment.
+Open-source Texas Hold'em multiplayer poker game / built for real-time rooms, game state synchronization, and easy local deployment.
 
 ## Overview / 概述 / 概覽
 This project is a multiplayer Texas Hold'em poker game server application / 这是一个多人德州扑克游戏服务端项目 / 這是一個多人德州撲克遊戲服務端專案.  
